@@ -17,4 +17,4 @@ Por último, completará sus conocimientos aplicando transformaciones de kernel 
 Cuando termine este curso, tendrá las habilidades y el conocimiento para identificar la técnica correcta de preprocesamiento de datos para su caso de uso y detectar los valores atípicos utilizando técnicas teóricamente robustas.
 
 [
-Preparing Data for Modeling with scikit-learn](https://app.pluralsight.com/library/courses/preparing-data-modeling-scikit-learn/table-of-contents)
+CURSO](https://app.pluralsight.com/library/courses/preparing-data-modeling-scikit-learn/table-of-contents)
