@@ -1,4 +1,4 @@
-# Preparing Numeric Data for Machine Learning
+# Preparing Data for Modeling with scikit-learn
 
 Aunque el número de marcos y bibliotecas de aprendizaje automático aumenta cada día, scikit-learn mantiene su popularidad con facilidad. 
 
